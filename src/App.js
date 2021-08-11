@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.<br/>
           卢本伟牛逼，react永远的神
+          我更新了啊
         </p>
         <a
           className="App-link"
